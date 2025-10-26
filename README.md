@@ -103,7 +103,7 @@ MedBot est validé comme un classificateur d'intention fiable et peut être dép
 | :--- | :--- | :--- |
 | **Notebook Final** | Contient tout le code du pipeline NLP et du modèle. | **[`Chatbot.ipynb`](https://github.com/Poincare008/Capstone-Chatbot-Intelligent/blob/main/Chatbot.ipynb)** |
 | **Notebook en format PDF** | Contient tout le code du pipeline NLP et du modèle en pdf. | **[`Chatbot.pdf`](https://github.com/Poincare008/Capstone-Chatbot-Intelligent/blob/main/notebook.pdf)** |
-| **Présentation** | Le support visuel du projet. | **[`Voir la présentation`](https://github.com/Poincare008/Capstone-Chatbot-Intelligent/blob/main/powerpoint.pdf)** |
+| **Présentation** | Le support visuel du projet. | **[`Voir la présentation`](https://github.com/Poincare008/Capstone-Chatbot-Intelligent/blob/main/presentation.pdf)** |
 | **Licence** | Licence d'utilisation du projet. | **[`LICENSE`](https://www.google.com/search?q=/LICENSE)** |
 
 ### Instructions de Reproduction
