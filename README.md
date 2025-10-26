@@ -8,7 +8,7 @@
 
 
 ## Pitch Exécutif (Élévateur Pitch)/ Project Overview
-Ce projet développe un **système de classification d'intention** basé sur le Deep Learning pour automatiser les interactions de premier niveau dans le domaine de la santé. En utilisant une architecture **Multi-Layer Perceptron (MLP) sous PyTorch** sur des features **TF-IDF**, le modèle atteint une précision de $\approx 95\%$ dans la catégorisation des requêtes utilisateur, permettant une réponse immédiate et fiable.
+Ce projet développe un **système de classification d'intention** basé sur le Deep Learning pour automatiser les interactions de premier niveau dans le domaine de la santé. En utilisant une architecture **Multi-Layer Perceptron (MLP) sous PyTorch** sur des features **TF-IDF**, le modèle atteint une précision de $\approx 65\%$ dans la catégorisation des requêtes utilisateur, permettant une réponse immédiate et fiable.
 
 
 ## Business Understanding et Data Understanding
